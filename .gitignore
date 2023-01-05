@@ -1,0 +1,4 @@
+data/minio/*
+!data/minio/.gitkeep
+ata/postgres/*
+!data/postgres/.gitkeep
